@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 感觉像个智障啊我日
 
 You can use the [editor on GitHub](https://github.com/WLFrank97/litterweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
